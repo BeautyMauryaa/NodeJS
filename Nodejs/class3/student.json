@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Beauty",
+    "rollno": 1,
+    "course": "Web"
+  },
+  {
+    "name": "Noova",
+    "rollno": 2,
+    "course": "AI"
+  },
+  {
+    "name": "Priya",
+    "rollno": 3,
+    "course": "datascience"
+  },
+  {
+    "name": "shreya",
+    "rollno": 4,
+    "course": "APP"
+  },
+  {
+    "name": "Priya",
+    "rollno": 2,
+    "course": "datascience"
+  }
+]

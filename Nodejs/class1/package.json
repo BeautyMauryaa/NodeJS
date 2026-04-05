@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-class",
+  "version": "1.0.0",
+  "description": "This is a first node js practical",
+  "license": "ISC",
+  "author": "Noova",
+  "type": "commonjs",
+  "main": "class1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node class1.js"
+  }
+}
